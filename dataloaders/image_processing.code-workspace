@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../image_processing"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../machine_learning"
+		},
+		{
+			"path": "../../../../../cloud_computing"
+		},
+		{
+			"path": "../../../../../hybrid"
+		},
+		{
+			"path": "../../../../../medical_imaging"
+		},
+		{
+			"path": "../../../../empty_folder"
+		},
+		{
+			"path": "../../../../new_working_folder"
+		},
+		{
+			"path": "../../../../../machine_learning/LiverTumorSegmentation"
+		},
+		{
+			"path": "../../../../../machine_learning/AtlasMLDL/nnUNet-2.2"
+		},
+		{
+			"path": "../../../../../winter"
+		}
+	],
+	"settings": {}
+}
