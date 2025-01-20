@@ -4,7 +4,7 @@ by Huy T. Nguyen and Thi-Thu-Khiet Dang et.al.
 ## Introduction
 Official code for Professor Stephanie Bricq's project. This repo also can be used for later publication purposes.
 
-## Our Proposed Framework
+## Our Proposed AdaEMA Framework for Semi-Supervised Cardiac Segmentation
 
 <center><img src='framework_figure.png' width=90%/></center>
 
