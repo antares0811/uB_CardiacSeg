@@ -1,12 +1,12 @@
 
-# Supervised and Semi-Supervised 3D Cardiac Segmentation
-by Huy T. Nguyen
+# AUTOMATIC MRI CARDIAC MULTI-STRUCTURE SEGMENTATION AND DIAGNOSIS: FROM SUPERVISED TO SEMI-SUPERVISED LEARNING
+by Huy T. Nguyen and Thi-Thu-Khiet Dang et.al.
 ## Introduction
-Official code for Professor Stephanie Bricq's project. This repo also can be used for later publication purpose.
+Official code for Professor Stephanie Bricq's project. This repo also can be used for later publication purposes.
 ## Requirements
-This repository is based on PyTorch 1.8.0, CUDA 11.1 and Python 3.6.13. All experiments in our paper were conducted on NVIDIA GeForce RTX 3090 GPU with an identical experimental setting.
+This repository is based on PyTorch 1.8.0, CUDA 11.1, and Python 3.6.13. All experiments in our paper were conducted on NVIDIA GeForce RTX 3090 GPU with an identical experimental setting.
 ## Usage
-I have provided `code`, `data_split` and `models` for LA and ACDC dataset.
+We have provided `code`, `data_split`, and `models` for LA and ACDC datasets.
 
 To train a supervised model,
 ```
@@ -26,10 +26,10 @@ python ./code/test_ACDC.py  #for ACDC testing
 ```
 
 ## Acknowledgements
-Our code is largely based on [SS-Net](https://github.com/ycwu1997/SS-Net). Thanks for these authors for their valuable work, hope our work can also contribute to related research.
+Our code is largely based on [SS-Net](https://github.com/ycwu1997/SS-Net). Thanks to these authors for their valuable work, I hope our work can also contribute to related research.
 
 ## Questions
-If you have any questions, welcome contact me at 'thanh-huy_nguyen@etu.u-bourgogne.fr' or 'bihuyz@gmail.com'
+If you have any questions, welcome contact us at 'thanh-huy_nguyen@etu.u-bourgogne.fr' (Huy) or "Thi-Thu-Khiet_Dang@etu.u-bourgogne.fr" (Khiet).
 
 
 
