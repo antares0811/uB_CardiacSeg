@@ -1,6 +1,6 @@
 
 # AUTOMATIC MRI CARDIAC MULTI-STRUCTURE SEGMENTATION AND DIAGNOSIS: FROM SUPERVISED TO SEMI-SUPERVISED LEARNING
-by Huy T. Nguyen and Thi-Thu-Khiet Dang et.al.
+by Thanh-Huy Nguyen and Thi-Thu-Khiet Dang et.al.
 ## Introduction
 Official code for Professor Stephanie Bricq's project. This repo also can be used for later publication purposes.
 
