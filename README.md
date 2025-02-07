@@ -34,7 +34,7 @@ python ./code/test_ACDC.py  #for ACDC testing
 Our code is based on [SS-Net](https://github.com/ycwu1997/SS-Net), [ABD](https://github.com/chy-upc/ABD), [AD-MT](https://github.com/ZhenZHAO/AD-MT) . Thanks to these authors for their valuable works, I hope our work can also contribute to related research.
 
 ## Questions
-If you have any questions, welcome contact us at 'thanh-huy_nguyen@etu.u-bourgogne.fr' (Huy) or "Thi-Thu-Khiet_Dang@etu.u-bourgogne.fr" (Khiet).
+If you have any questions, welcome contact us at 'thanh-huy_nguyen@etu.u-bourgogne.fr' (Huy).
 
 
 
